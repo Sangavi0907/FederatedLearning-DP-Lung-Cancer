@@ -1,4 +1,4 @@
-🏥Privacy-Preserving Federated Learning for Lung Cancer Detection Using Fog Computing and Multimodal Data
+# *🏥Privacy-Preserving Federated Learning for Lung Cancer Detection Using Fog Computing and Multimodal Data*
 
 A novel federated learning framework for lung cancer prediction using CT images and patient metadata. Ensures privacy via:
 - ✅ Fog node-based federated architecture
@@ -10,12 +10,14 @@ A novel federated learning framework for lung cancer prediction using CT images 
 
 
 In today’s digital world, privacy and data security are critical concerns for industries such as healthcare, finance, smart cities, and IoT. Traditional centralized machine learning approaches require collecting data from multiple sources, which can lead to data breaches, high communication costs, and regulatory violations. Federated Learning (FL) allows decentralized model training, but existing FL systems lack strong privacy mechanisms and efficient weight aggregation, making them vulnerable to inference attacks and inefficiencies. 
-This project proposes a privacy-preserving Federated Learning framework using Fog Computing, where:
-     --Local models are trained on distributed fog nodes (hospitals, banks, smart city sensors, IoT devices).
-     --Instead of sharing raw data, only processed model weights are sent to the cloud server.
-     --Generalization & Threshold Shuffler algorithms ensure enhanced privacy before aggregation.
 
+This project proposes a privacy-preserving Federated Learning framework using Fog Computing, where: 
 
+- Local models are trained on distributed fog nodes (hospitals, banks, smart city sensors, IoT devices).
+
+- Instead of sharing raw data, only processed model weights are sent to the cloud server.
+
+- Generalization & Threshold Shuffler algorithms ensure enhanced privacy before aggregation.
 
 
 
@@ -38,9 +40,13 @@ The new global model is then redistributed back to each hospital. Over several r
 The final, learnt model (as labeled) can be applied to provide personalized healthcare to patients. For example, predicting lung cancer early based on risk factors, imaging data, and patient history without ever exposing private information.
 
 Federated Learning for Lung Cancer Prediction: Key Benefits
+
 🔒 Privacy-Preserving: Patient data never leaves the institution.
+
 🧠 Better Generalization: Model learns from multiple diverse sources.
+
 🏥 Decentralized Training: Useful in medical contexts where data sharing is restricted by laws like HIPAA or GDPR.
+
 🚀 Scalable & Real-Time Updates: Institutions can keep improving their models continuously.
 
 
