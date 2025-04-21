@@ -39,7 +39,16 @@ The new global model is then redistributed back to each hospital. Over several r
 5. Personalized Healthcare:
 The final, learnt model (as labeled) can be applied to provide personalized healthcare to patients. For example, predicting lung cancer early based on risk factors, imaging data, and patient history without ever exposing private information.
 
-**Federated Learning for Lung Cancer Prediction: Key Benefits**
+### Demo Video
+
+You can download or watch the demo video below:
+
+[Video](https://github.com/Sangavi0907/FederatedLearning-DP-Lung-Cancer/blob/main/UI_Demo.mp4)
+
+
+
+
+## **Federated Learning for Lung Cancer Prediction: Key Benefits**
 
 🔒 Privacy-Preserving: Patient data never leaves the institution.
 
@@ -50,7 +59,7 @@ The final, learnt model (as labeled) can be applied to provide personalized heal
 🚀 Scalable & Real-Time Updates: Institutions can keep improving their models continuously.
 
 
- 📁 Folder Structure
+ ## 📁 Folder Structure
 - `app.py`: Streamlit UI
 - `final_global_model_5.pkl`: Trained federated model
 - `multimodal_model.py`: CNN+FFNN code
@@ -61,6 +70,6 @@ The final, learnt model (as labeled) can be applied to provide personalized heal
 - `README.md`: This file
 
 
- 🚀 Run the Streamlit App
+ ## 🚀 Run the Streamlit App
 ```bash
 streamlit run app.py
