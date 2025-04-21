@@ -19,7 +19,7 @@ This project proposes a privacy-preserving Federated Learning framework using Fo
 
 - Generalization & Threshold Shuffler algorithms ensure enhanced privacy before aggregation.
 
-
+![Project Diagram](images/diagram.png)
 
 This diagram illustrates the concept of Federated Learning (FL) applied in a lung cancer prediction scenario across multiple hospitals, focusing on privacy-preserving personal healthcare.
 
@@ -39,7 +39,7 @@ The new global model is then redistributed back to each hospital. Over several r
 5. Personalized Healthcare:
 The final, learnt model (as labeled) can be applied to provide personalized healthcare to patients. For example, predicting lung cancer early based on risk factors, imaging data, and patient history without ever exposing private information.
 
-Federated Learning for Lung Cancer Prediction: Key Benefits
+**Federated Learning for Lung Cancer Prediction: Key Benefits**
 
 🔒 Privacy-Preserving: Patient data never leaves the institution.
 
