@@ -39,14 +39,6 @@ The new global model is then redistributed back to each hospital. Over several r
 5. Personalized Healthcare:
 The final, learnt model (as labeled) can be applied to provide personalized healthcare to patients. For example, predicting lung cancer early based on risk factors, imaging data, and patient history without ever exposing private information.
 
-### Demo Video
-
-You can download or watch the demo video below:
-
-[Video](https://github.com/Sangavi0907/FederatedLearning-DP-Lung-Cancer/blob/main/UI_Demo.mp4)
-
-
-
 
 ## **Federated Learning for Lung Cancer Prediction: Key Benefits**
 
