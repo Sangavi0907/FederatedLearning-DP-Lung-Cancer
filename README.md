@@ -65,3 +65,12 @@ The final, learnt model (as labeled) can be applied to provide personalized heal
  ## 🚀 Run the Streamlit App
 ```bash
 streamlit run app.py
+```
+
+## 📷 DEMO of Lung Cancer Prediction UI
+
+![Project Diagram](images/1.png)        
+![Project Diagram](images/2.png)              
+![Project Diagram](images/3.png)
+![Project Diagram](images/4.png)        
+![Project Diagram](images/5.png)
